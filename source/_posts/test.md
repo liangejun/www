@@ -1,5 +1,6 @@
 ---
 title: test
-date: 2020-01-04 20:35:50
-tags:
+tags: [快乐,幸福]
+categories: [打坐,禅定]
 ---
+这是测试内容
